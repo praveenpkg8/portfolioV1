@@ -1,0 +1,67 @@
+{
+    "about": {
+        "Education": [
+            {
+                "School / University": "Jeppiaar Engineering College",
+                "yop": "2019",
+                "Degree": "B Tech",
+                "Score / CGPA": "6.8"
+            },
+            {
+                "School / University": "Gill Adarsh Matriculation Higher Secondary School",
+                "yop": "2015",
+                "Degree": "HSC",
+                "Score / CGPA": "88%"
+            },
+            {
+                "School / University": "P S Senior Secondary School",
+                "yop": "2013",
+                "Degree": "SSLC",
+                "Score / CGPA": "84%"
+            }
+        ],
+        "Internship": [
+            {
+                "Organization": "FULL Creative",
+                "Domain": "Web App Development",
+                "Role": "Full Stack Developer",
+                "Duration": "3 Months, (June 2019)"
+            },
+            {
+                "Organization": "UMM Digital,",
+                "Domain": "Backend Development",
+                "Role": "Backend Developer",
+                "Duration": "6 Months, (December 2018)"
+            },
+            {
+                "Organization": "EDII TAMIL NADU(AUTONOMOUS GOVT BODY)",
+                "Domain": "Web App Development",
+                "Role": "Project Developer",
+                "Duration": "1 Month, (January 2018)"
+            },
+            {
+                "Organization": "TechBuzz Technology",
+                "Domain": "Mobile App Development",
+                "Role": "Android Developer",
+                "Duration": "1 Month, (December 2018)"
+            }
+        ],
+        "Skills": [
+            "Python", "Flask", "React", "Angular", "Git", "Docker", "JavaScripy", "Google Cloud Platform"
+        ],
+        "Achivements": [
+            ["Second Placein Business Plan Presentation at SAE Student Convention TIER-1", "SAE"],
+            ["Second Placein Techno Talk at National LEVEL TECHNICAL SYMPOSIUM conducted by MNM JAIN Engineering Colleg", "ELEXRIEG 2K16"],
+            ["Second Placein Paper Presentation at National LEVEL TECHNICAL SYMPOSIUM conducted by Jeppiaar Engineering College", "PRATIYOG 2K16"],
+            ["Won a Govt Tender for 1.22 Lakhs for Development of Online Web Portal.", "EDII IEDP"]
+        ],
+        "Leadership Skill": [
+            ["Head Coordinator for Computer Society of India in student chapter of Jeppiaar Engineering College", "CSI"],
+            ["Sponsor Headfor PRATIYOG 2K18 at National LEVEL TECHNICAL SYMPOSIUM conducted by Jeppiaar Engineering College", "PRATIYOG 2K18"],
+            ["PRATIYOG 2K18 Head Coordinatorfor PRATIYOG 2K16 at National LEVEL TECHNICAL SYMPOSIUM conducted by Jeppiaar Engineering College", "PRATIYOG 2K16"],
+            ["Coordinated event called Distrupt at National LEVEL TECHNICAL SYMPOSIUM conducted by Jeppiaar Engineering College", "PRATIYOG 2K18"],
+            ["CEO of College Entrepreneurship Cell CHAKRA VIYUGAM", "CHAKRA VIYUGAM"]
+        ]
+    }
+    
+}

@@ -1,0 +1,5 @@
+# Git Ignore
+node_modules/
+public/
+
+package-lock.json
